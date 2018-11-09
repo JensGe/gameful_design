@@ -13,6 +13,7 @@ Ian Bogost, „Why Gamification Is Bullshit“, in The Gameful World, 2014, 66ff
 
 ## Ian Bogost
 Ian Bogost, „Why Gamification Is Bullshit“, in The Gameful World, 2014, 66ff.
+
 Ian Bogost, „Persuasive Games: Exploitationware“, Gamasutra, 3. Mai 2011, 4, http://www.gamasutra.com/view/feature/134735/persuasive_games_exploitationware.php.
 
 ## Armando Toda
@@ -29,6 +30,7 @@ Steffen P. Walz und Sebastian Deterding, Hrsg., The gameful world: approaches, i
 
 ## Hilfsmittel und Ziele
 Sebastian Deterding, „The Lens of Intrinsic Skill Atoms: A Method for Gameful Design“, Human–Computer Interaction 30, Nr. 3–4 (Mai 2015): 296f, https://doi.org/10.1080/07370024.2014.993471.
+
 Sebastian Deterding u. a., „From Game Design Elements to Gamefulness: Defining ‚Gamification‘“, 2011, 13f.
 
 ## Extrinsische und intrinsische Motivation
@@ -36,8 +38,11 @@ Richard M. Ryan und Edward L. Deci, „Intrinsic and Extrinsic Motivations: Clas
 
 ## Sebastian Deterding
 „Sebastian Deterding - CV“, 2018, http://codingconduct.cc/CV.
+
 Deterding u. a., „From Game Design Elements to Gamefulness: Defining ‚Gamification‘“, 10.
+
 Deterding u. a., „From Game Design Elements to Gamefulness: Defining ‚Gamification‘“, 13.
+
 Deterding, „The Lens of Intrinsic Skill Atoms“, 304f.
 
 ## Kevin Bell
