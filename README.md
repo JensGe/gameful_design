@@ -5,12 +5,6 @@ Dieser Screencast ist im Rahmen des Wissenschaftlichen Projektes im Masterstudie
 
 Der Screencast wurde aufgenommen und bearbeitet von Jens Gäbeler.
 
-## Noch ein Begriff? 
-„What is the difference between Human Interaction Design (HID), UX Design and UI Design?“, TechJini (blog), 19. Oktober 2016, https://www.techjini.com/blog/human-interaction-design-vs-ux-vs-ui-design/.
-
-## Kritik am Begriff Gamification
-Ian Bogost, „Why Gamification Is Bullshit“, in The Gameful World, 2014, Seite 66ff.
-
 ## Ian Bogost
 Ian Bogost, „Why Gamification Is Bullshit“, in The Gameful World, 2014, Seite 66ff.
 
