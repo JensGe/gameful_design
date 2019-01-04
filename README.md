@@ -41,6 +41,7 @@ Deterding, „The Lens of Intrinsic Skill Atoms“, Seite 304f.
 
 ## Kevin Bell
 https://www.westernsydney.edu.au/about_uws/leadership/executive/pro_vice-chancellor_digital_futures
+
 Kevin Bell, „Gameful Design: A Potential Game Changer“, 2018, Seite 42.
 
 ## Weitere Experten
